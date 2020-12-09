@@ -23,5 +23,4 @@ phases:
 artifacts:
   files:
     - dist/*
-    - deployspec.yml
-    - manifest.yml
+    - OP/deployspec.yml
