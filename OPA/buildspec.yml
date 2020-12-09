@@ -23,4 +23,4 @@ phases:
 artifacts:
   files:
     - dist/*
-    - OP/deployspec.yml
+    - OPA/deployspec.yml
